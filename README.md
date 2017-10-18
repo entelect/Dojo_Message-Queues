@@ -1,5 +1,5 @@
 # Message Queue Dojo
-Message Queues Dojo
+This is the sample project that is used in the exercises
 
 ## Installations
 Please install Erlang and RabbitMQ (and Visual Studio if you don't have it)
