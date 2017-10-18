@@ -1,0 +1,15 @@
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\ATM.exe.config
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\ATM.exe
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\ATM.pdb
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\Common.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\RabbitMQ.Client.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\Common.pdb
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\bin\Debug\RabbitMQ.Client.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\obj\Debug\ATM.exe
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\ATM\obj\Debug\ATM.pdb

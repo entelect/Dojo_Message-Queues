@@ -1,0 +1,15 @@
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\DebtCollector.exe.config
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\DebtCollector.exe
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\DebtCollector.pdb
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\Common.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\RabbitMQ.Client.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\Common.pdb
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\bin\Debug\RabbitMQ.Client.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\obj\Debug\DebtCollector.csprojResolveAssemblyReference.cache
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\obj\Debug\DebtCollector.csproj.CoreCompileInputs.cache
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\obj\Debug\DebtCollector.exe
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\DebtCollector\obj\Debug\DebtCollector.pdb

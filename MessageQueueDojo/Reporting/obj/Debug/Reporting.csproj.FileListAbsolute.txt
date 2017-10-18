@@ -1,0 +1,15 @@
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Reporting.exe.config
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Reporting.exe
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Reporting.pdb
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Common.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\RabbitMQ.Client.dll
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Common.pdb
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\bin\Debug\RabbitMQ.Client.xml
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\obj\Debug\Reporting.csprojResolveAssemblyReference.cache
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\obj\Debug\Reporting.csproj.CoreCompileInputs.cache
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\obj\Debug\Reporting.exe
+C:\Users\asheen.singh\Documents\training\dojo\message queues\exercises\MessageQueueDojo\Reporting\obj\Debug\Reporting.pdb
